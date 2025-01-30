@@ -1,5 +1,5 @@
 {
-  "pull-request-title-pattern": "chore: release${component} ${version}",
+  "pull-request-title-pattern": "chore: release 💎 ${version}",
   "packages": {
     ".": {
       "changelog-path": "History.markdown",
